@@ -58,7 +58,6 @@ Atualmente, o repositório contém scripts para as seguintes funcionalidades:
 
 Para começar, clone o repositório para o seu ambiente local:
 
-```bash
 git clone https://github.com/marcelcwb/scripts.git
 
 🌟 Contribuições
