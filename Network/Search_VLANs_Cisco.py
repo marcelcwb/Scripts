@@ -1,7 +1,7 @@
-import paramiko
+import paramiko # type: ignore
 import re
 import ipaddress
-from openpyxl import Workbook
+from openpyxl import Workbook # type: ignore
 
 # Função para se conectar ao switch e obter as VLANs, descrições, IPs e configurações adicionais
 def get_vlans_and_configs_from_switch(host, username, password):

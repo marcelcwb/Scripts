@@ -67,18 +67,19 @@ Contribuições são muito bem-vindas! 😃 Se você tem sugestões, melhorias o
 
 Faça um fork deste repositório.
 Crie uma nova branch para a sua modificação:
-bash
-Copiar código
+
 git checkout -b minha-nova-feature
+
 Realize suas alterações e faça commit:
-bash
-Copiar código
+
 git commit -m "Adicionando nova funcionalidade"
+
 Envie para o seu repositório:
-bash
-Copiar código
+
 git push origin minha-nova-feature
+
 Abra um pull request com suas mudanças.
+
 📜 Licença
 
 Este repositório está licenciado sob a MIT License. Confira o arquivo LICENSE para mais informações.
