@@ -3,8 +3,7 @@
 Bem-vindo ao repositório de **Scripts de Rede e Firewalls**! 🎉 Este repositório contém uma coleção de **scripts em Python** voltados para facilitar a administração, automação e análise de redes e dispositivos de segurança. 😎
 
 Aqui você encontrará ferramentas para **gerenciar VLANs**, **analisar logs de firewall**, **diagnosticar problemas de rede**, e muito mais! 🌐⚡
-
-![Network Automation](https://media.giphy.com/media/TJjNG0JtD0q6k/giphy.gif)  
+ 
 *Automação de Rede em Ação!*
 
 ---
